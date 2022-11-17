@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.0](https://github.com/neildaly-wpengine/changelog-gen/compare/v2.0.0...v2.1.0) (2022-11-17)
+
+
+### Features
+
+* **greeting:** :sparkles: add check for yurts ([e931ac8](https://github.com/neildaly-wpengine/changelog-gen/commit/e931ac861177f998ab90cb1e56344e32f4887a13))
+
+
+### Refactors
+
+* **greeting:** :recycle: rename greeting func ([79b7025](https://github.com/neildaly-wpengine/changelog-gen/commit/79b702553011914156d231445790250af7c5ead3))
+
 ## [2.0.0](https://github.com/neildaly-wpengine/changelog-gen/compare/v1.2.0...v2.0.0) (2022-11-17)
 
 
