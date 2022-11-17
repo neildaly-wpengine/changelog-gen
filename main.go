@@ -10,7 +10,7 @@ func main() {
 		fmt.Printf("%s", fmt.Errorf("failed to retrieve greeting, err=%w", err))
 	}
 
-	fmt.Printf("Hello %s\n", greeting)
+	fmt.Printf("Hello there %s\n", greeting)
 }
 
 func retrieveGreeting() (string, error) {
