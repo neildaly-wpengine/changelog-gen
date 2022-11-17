@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/neildaly-wpengine/changelog-gen/compare/v1.1.3...v1.2.0) (2022-11-17)
+
+
+### Features
+
+* **greeting:** :sparkles: add more detail to greeting ([5744cff](https://github.com/neildaly-wpengine/changelog-gen/commit/5744cffd6d2d6145697fc44cef8c4eac92c4628a))
+
 ## [1.1.3](https://github.com/neildaly-wpengine/changelog-gen/compare/v1.1.2...v1.1.3) (2022-11-17)
 
 
