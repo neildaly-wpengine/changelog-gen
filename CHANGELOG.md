@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/neildaly-wpengine/changelog-gen/compare/v1.2.0...v2.0.0) (2022-11-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* :ambulance: breaking change hotfix
+
+### Features
+
+* :ambulance: breaking change hotfix ([188feb5](https://github.com/neildaly-wpengine/changelog-gen/commit/188feb56715e4ee9cbf46bcf3bc7874cd0e63c58))
+
 ## [1.2.0](https://github.com/neildaly-wpengine/changelog-gen/compare/v1.1.3...v1.2.0) (2022-11-17)
 
 
