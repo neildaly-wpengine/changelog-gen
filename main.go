@@ -7,5 +7,5 @@ func main() {
 }
 
 func retrieveGreeting() string {
-	return "world"
+	return "world!"
 }
