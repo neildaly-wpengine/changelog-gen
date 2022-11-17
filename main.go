@@ -3,6 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	recipient := "world"
-	fmt.Printf("Hello %s\n", recipient)
+	fmt.Printf("Hello %s\n", retrieveGreeting())
+}
+
+func retrieveGreeting() string {
+	return "world"
 }
