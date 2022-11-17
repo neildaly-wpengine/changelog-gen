@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/neildaly-wpengine/changelog-gen/compare/v1.1.1...v1.1.2) (2022-11-17)
+
+
+### Miscellaneous
+
+* update release phase ([4e07006](https://github.com/neildaly-wpengine/changelog-gen/commit/4e070061f63b12f20f31953182e0bd0189bc18dd))
+
 ## [1.1.1](https://github.com/neildaly-wpengine/changelog-gen/compare/v1.1.0...v1.1.1) (2022-11-17)
 
 
