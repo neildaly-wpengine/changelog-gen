@@ -14,5 +14,5 @@ func main() {
 }
 
 func retrieveGreeting() (string, error) {
-	return "world!", nil
+	return "world", nil
 }
