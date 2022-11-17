@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	greeting, err := retrieveGreeting()
+	greeting, err := obtainGreeting()
 	if err != nil {
 		fmt.Printf("%s", fmt.Errorf("failed to retrieve greeting, err=%w", err))
 	}
@@ -13,6 +13,6 @@ func main() {
 	fmt.Printf("Hello there, %s!\n", greeting)
 }
 
-func retrieveGreeting() (string, error) {
+func obtainGreeting() (string, error) {
 	return "world", nil
 }
