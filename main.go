@@ -1,11 +1,18 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-	fmt.Printf("Hello %s\n", retrieveGreeting())
+	greeting, err := retrieveGreeting()
+	if err != nil {
+		fmt.Printf("%s", fmt.Errorf("failed to retrieve greeting, err=%w", err))
+	}
+
+	fmt.Printf("Hello %s\n", greeting)
 }
 
-func retrieveGreeting() string {
-	return "world!"
+func retrieveGreeting() (string, error) {
+	return "world!", nil
 }
