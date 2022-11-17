@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/neildaly-wpengine/changelog-gen/compare/v1.1.0...v1.1.1) (2022-11-17)
+
+
+### Bug Fixes
+
+* **greeting:** :bug: add missing exclamation! ([ca80287](https://github.com/neildaly-wpengine/changelog-gen/commit/ca8028781d2035fea9adf80615cce1560926b62f))
+
 ## [1.1.0](https://github.com/neildaly-wpengine/changelog-gen/compare/v1.0.0...v1.1.0) (2022-11-17)
 
 
