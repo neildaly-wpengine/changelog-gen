@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	recipient := "worlg"
+	recipient := "world"
 	fmt.Printf("Hello %s\n", recipient)
 }
