@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/neildaly-wpengine/changelog-gen/compare/v1.1.2...v1.1.3) (2022-11-17)
+
+
+### Refactors
+
+* **greeting:** :recycle: error handling logging changes ([694b490](https://github.com/neildaly-wpengine/changelog-gen/commit/694b49094df3fd553c064d91ae559c9c249b5262))
+
 ## [1.1.2](https://github.com/neildaly-wpengine/changelog-gen/compare/v1.1.1...v1.1.2) (2022-11-17)
 
 
