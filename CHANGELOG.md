@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/neildaly-wpengine/changelog-gen/compare/v1.0.0...v1.1.0) (2022-11-17)
+
+
+### Features
+
+* **docs:** :memo: add readme ([23a4462](https://github.com/neildaly-wpengine/changelog-gen/commit/23a4462e3238a452196581a33ba2e6b1f5f8aaa1))
+
 ## 1.0.0 (2022-11-17)
 
 
